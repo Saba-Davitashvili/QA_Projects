@@ -1,14 +1,14 @@
 # Portfolio — Saba Davitashvili
 
-### About me 👋
+### About me 
 Hi, my name is Saba. I am a QA Manual Engineer passionate about software quality, precision testing, and system stability. I specialize in identifying critical edge cases, structural race conditions, cache leaks, and API discrepancies. My goal is to ensure that software is not only functional but highly resilient and secure. In this portfolio, I share my technical skills, tools of choice, and showcase real-world QA testing samples from my workspaces.
 
-[My LinkedIn profile](https://linkedin.com)
+[My LinkedIn profile](https://www.linkedin.com/in/swishh/)
 
 ---
 
-### Tools 🔧
-* **Jira / Trello** - Agile project management and bug tracking
+### Tools 
+* **Jira / Clickup** - Agile project management and bug tracking
 * **Confluence** - Test documentation and knowledge sharing
 * **Postman** - REST API manual testing and parameter validation
 * **Maestro** - Mobile user journey flow automation
@@ -19,7 +19,7 @@ Hi, my name is Saba. I am a QA Manual Engineer passionate about software quality
 
 ---
 
-### Tech skills 💻
+### Tech skills 
 * **Manual Testing Practices:** Smoke testing, regression testing, UAT, exploratory testing, security validation, and boundary value analysis.
 * **API Testing:** JSON payload verification, response code validation (2xx, 4xx, 5xx), header and session cookie auditing.
 * **Mobile & Web Testing:** Cross-platform validation (Android & iOS tracks), viewport reload handling, and history state verification.
@@ -27,7 +27,7 @@ Hi, my name is Saba. I am a QA Manual Engineer passionate about software quality
 
 ---
 
-### Soft skills 📁
+### Soft skills 
 * **Precision & Analytical Thinking** - Isolating root causes of intermittent or race-condition bugs.
 * **Clear Technical Writing** - Writing developer-friendly steps to reproduce with expected vs. actual outcomes.
 * **Assertiveness & Collaboration** - Constructively reporting defects and working closely with developers.
@@ -35,14 +35,7 @@ Hi, my name is Saba. I am a QA Manual Engineer passionate about software quality
 
 ---
 
-### Certifications & Courses 📓
-* **ISTQB Certified Tester** - Foundation Level (Syllabus Knowledge)
-* **API Testing Masterclass** - Handshake validation, request methods, and session management
-* **Mobile Automation Fundamentals** - Building end-to-end user flows in Maestro
-
----
-
-### Samples 🔬
+### Samples 
 
 #### **1. Social Travel & Booking Platform**
 A full-featured social platform combining a content feed, real-time messaging, interactive map, and hotel/restaurant/tour booking — tested across both mobile (Android) and web platforms.
