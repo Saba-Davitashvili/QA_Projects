@@ -42,7 +42,7 @@ A full-featured social platform combining a content feed, real-time messaging, i
 * [Test Plan & Strategy](travel-app/README.md)
 * [83 Comprehensive Test Cases Index](travel-app/README.md#feature-modules)
 
-  **Mobile (Android) — 18 Defect Reports:**
+  **Mobile (IOS) — 18 Defect Reports:**
   * [BUG-007: Verification Code Spam & Token Failures](travel-app/mobile/bug-report-007-multiple-otp-dispatch-failure.md)
   * [BUG-008: UI Freeze During Registration Submit](travel-app/mobile/bug-report-008-ui-freeze-on-registration-submit.md)
   * [BUG-012: Group Chat UI Navigation Deadlock](travel-app/mobile/bug-report-012-group-chat-ui-deadlock.md)
