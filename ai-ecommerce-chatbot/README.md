@@ -20,10 +20,10 @@ A Shopify-integrated storefront with NLP-driven product search, deep attribute f
 
 | Bug ID | Title | Severity |
 |---|---|:---:|
-| BUG-001 | Chatbot WebSocket Handshake Failure on Apex Domain | 🔴 Critical |
-| BUG-002 | Memory Leak / DOM Freeze on Rapid Interactive Refreshes | 🔴 Critical |
-| BUG-003 | Search Parameter Filtering Overwrite | 🟠 High |
-| BUG-004 | Generative AI Fabricated Inventory Output | 🔴 Critical |
-| BUG-005 | Inconsistent Stochastic Responses on Identical Queries | 🟠 High |
+| BUG-001 | Chatbot WebSocket Handshake Failure on Apex Domain |  Critical |
+| BUG-002 | Memory Leak / DOM Freeze on Rapid Interactive Refreshes |  Critical |
+| BUG-003 | Search Parameter Filtering Overwrite |  High |
+| BUG-004 | Generative AI Fabricated Inventory Output |  Critical |
+| BUG-005 | Inconsistent Stochastic Responses on Identical Queries |  High |
 
 See individual `bug-report-*.md` files in this folder.
